@@ -33,7 +33,7 @@ namespace Tyuiu.RaushKN.Sprint1.Task2.V2
             Console.WriteLine("# РЕЗУЛЬТАТ:                                                              #");
             Console.WriteLine("###########################################################################");
         
-            Console.WriteLine("Угол в радианах = "+ Math.Round(ds.ConvertAngleToRad(x), 3));
+            Console.WriteLine("Угол в радианах = "+ ds.ConvertAngleToRad(x));
             Console.ReadKey();
         }
     }
