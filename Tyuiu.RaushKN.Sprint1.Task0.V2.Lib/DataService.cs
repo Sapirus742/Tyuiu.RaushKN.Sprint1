@@ -1,8 +1,8 @@
-/*﻿using tyuiu.cources.programming.interfaces.Sprint1;*/
+/using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.RaushKN.Sprint1.Task0.V2.Lib
 {
-    public class DataService : /*ISprint1Task0V2*/
+    public class DataService : ISprint1Task0V2
     {
         public double Calculate()
         {
