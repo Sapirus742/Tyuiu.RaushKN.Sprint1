@@ -1,4 +1,4 @@
-﻿using Tyuiu.RaushKN.Sprint1Task7.V20.Lib;
+﻿using Tyuiu.RaushKN.Sprint1.Task7.V20.Lib;
 
 namespace Tyuiu.RaushKN.Sprint1Task7.V20
 {

@@ -61,11 +61,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.RaushKN.Sprint1.Task6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{09DA9221-B574-4228-8560-97C9B9EBD154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1Task7.V20", "Tyuiu.RaushKN.Sprint1Task7.V20\Tyuiu.RaushKN.Sprint1Task7.V20.csproj", "{F89EED14-46AA-42EE-9619-4EB5F2C539AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1.Task7.V20", "Tyuiu.RaushKN.Sprint1Task7.V20\Tyuiu.RaushKN.Sprint1.Task7.V20.csproj", "{F89EED14-46AA-42EE-9619-4EB5F2C539AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1Task7.V20.Test", "Tyuiu.RaushKN.Sprint1Task7.V20.Test\Tyuiu.RaushKN.Sprint1Task7.V20.Test.csproj", "{F3EFC278-476C-458E-BE07-17F47492D1F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1.Task7.V20.Test", "Tyuiu.RaushKN.Sprint1Task7.V20.Test\Tyuiu.RaushKN.Sprint1.Task7.V20.Test.csproj", "{F3EFC278-476C-458E-BE07-17F47492D1F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1Task7.V20.Lib", "Tyuiu.RaushKN.Sprint1Task7.V20.Lib\Tyuiu.RaushKN.Sprint1Task7.V20.Lib.csproj", "{CE6434D4-4CC7-46B8-8B59-0981FF8DF2F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RaushKN.Sprint1.Task7.V20.Lib", "Tyuiu.RaushKN.Sprint1Task7.V20.Lib\Tyuiu.RaushKN.Sprint1.Task7.V20.Lib.csproj", "{CE6434D4-4CC7-46B8-8B59-0981FF8DF2F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
