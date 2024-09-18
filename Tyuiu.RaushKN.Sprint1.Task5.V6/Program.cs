@@ -11,7 +11,7 @@ namespace Tyuiu.RaushKN.Sprint1.Task5.V6
             Console.Title = "Спринт #1 | Выполнил: Рауш К. Н. | АСОиУб-24-1";
             Console.WriteLine("###########################################################################");
             Console.WriteLine("# Спринт #1                                                               #");
-            Console.WriteLine("# Тема: Создание итогового решения по спринту                             #");
+            Console.WriteLine("# Тема: Преобразование типов и класс Convert                              #");
             Console.WriteLine("# Задание #5                                                              #");
             Console.WriteLine("# Вариант #6                                                              #");
             Console.WriteLine("# Выполнил Рауш Кирилл Николавевич | АСОиУб-24-1                          #");

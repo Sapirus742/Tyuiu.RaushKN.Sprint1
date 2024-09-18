@@ -11,7 +11,7 @@ namespace Tyuiu.RaushKN.Sprint1Task7.V20
             Console.Title = "Спринт #1 | Выполнил: Рауш К. Н. | АСОиУб-24-1";
             Console.WriteLine("###########################################################################");
             Console.WriteLine("# Спринт #1                                                               #");
-            Console.WriteLine("# Тема: Создание итогового решения по спринту                             #");
+            Console.WriteLine("# Тема: Добавление к решению итоговых проектов по спринту                 #");
             Console.WriteLine("# Задание #7                                                              #");
             Console.WriteLine("# Вариант #20                                                             #");
             Console.WriteLine("# Выполнил Рауш Кирилл Николавевич | АСОиУб-24-1                          #");
